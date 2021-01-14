@@ -2,7 +2,7 @@
 
 ### Bikshare project
 
-### creating a bike share systems for three major cities in the United States, Chicago, New York City, and Washington, importing the data and answering interesting questions about it by computing descriptive statistics.
+### Creating a bike share systems for three major cities in the United States, Chicago, New York City, and Washington, importing the data and answering interesting questions about it by computing descriptive statistics.
 
 
 ### bikeshare.py ,washington.csv, new_york_city.csv, chicago.csv
