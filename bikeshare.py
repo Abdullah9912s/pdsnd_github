@@ -1,3 +1,6 @@
+#project Description:
+#creating a bike share systems for three major cities in the United States, Chicago, New York City, and Washington.  importing the data and answering interesting questions about it by computing descriptive statistics.
+
 import time
 import pandas as pd
 import numpy as np
